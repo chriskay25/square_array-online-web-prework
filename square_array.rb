@@ -1,5 +1,3 @@
-array = [1,2,3,4]
-
 def square_array(array)
   sq_array = []
   array.each do |i|
